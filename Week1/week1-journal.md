@@ -52,7 +52,7 @@
 | Adapter 2 | Host-only | enp0s8 | 192.168.56.101 |
 
 ### Host-only Adapter
-![Host-only Adapter](images/13-adapter2-host-only.png)
+![Host-only Adapter](images/13-adapter2-hostonly.png)
 
 ### Netplan Configuration
 ![Netplan Config](images/14-netplan-config.png)
@@ -71,13 +71,13 @@
 ![Storage Config](images/04-storage-configuration.png)
 
 ### Profile Setup
-![Password Config](images/05-password-configuration.png)
+![Password Config](<images/05-password configuration.png>)
 
 ### Featured Snaps
 ![Featured Snaps](images/06-featured-snaps.png)
 
 ### SSH Server Installation
-![OpenSSH](images/06-openssh.png)
+![OpenSSH](<images/06-openssh .png>)
 
 ### Installation Complete
 ![Installation Complete](images/07-installation-complete.png)
@@ -87,10 +87,10 @@
 ## 6. CLI System Specifications
 
 ### First Login
-![First Login](images/09-first-login.png)
+![First Login](<images/09-first login.png>)
 
 ### Memory and Disk Space (`free -h` and `df -h`)
-![Memory and Space](images/10-memory-and-space.png)
+![Memory and Space](<images/10-memory and space.png>)
 
 ### IP Address (`ip addr`)
 ![IP Address](images/11-ipaddress.png)
