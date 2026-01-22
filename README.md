@@ -17,15 +17,15 @@ This journal documents my 7-week journey configuring, securing, and evaluating a
 
 ## Weekly Journal Entries
 
-| Week               | Topic                                                  | Status         |
-|--------------------|--------------------------------------------------------|----------------|
-| [Week 1](week1.md) | System Planning and Distribution Selection             | 🔄 In Progress |
-| [Week 2](week2.md) | Security Planning and Testing Methodology              | ⏳ Pending     |
-| [Week 3](week3.md) | Application Selection for Performance Testing          | ⏳ Pending     |
-| [Week 4](week4.md) | Initial System Configuration & Security Implementation | ⏳ Pending     |
-| [Week 5](week5.md) | Advanced Security and Monitoring Infrastructure        | ⏳ Pending     |
-| [Week 6](week6.md) | Performance Evaluation and Analysis                    | ⏳ Pending     |
-| [Week 7](week7.md) | Security Audit and System Evaluation                   | ⏳ Pending     |
+| Week                 | Topic                                                  | Status         |
+|----------------------|--------------------------------------------------------|----------------|
+| [Week 1](./week1.md) | System Planning and Distribution Selection             | 🔄 In Progress |
+| [Week 2](week2.md)   | Security Planning and Testing Methodology              | ⏳ Pending     |
+| [Week 3](week3.md)   | Application Selection for Performance Testing          | ⏳ Pending     |
+| [Week 4](week4.md)   | Initial System Configuration & Security Implementation | ⏳ Pending     |
+| [Week 5](week5.md)   | Advanced Security and Monitoring Infrastructure        | ⏳ Pending     |
+| [Week 6](week6.md)   | Performance Evaluation and Analysis                    | ⏳ Pending     |
+| [Week 7](week7.md)   | Security Audit and System Evaluation                   | ⏳ Pending     |
 
 ---
 
