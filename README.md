@@ -19,7 +19,7 @@ This journal documents my 7-week journey configuring, securing, and evaluating a
 
 | Week                       | Topic                                                  | Status         |
 |----------------------      |--------------------------------------------------------|----------------|
-| [Week 1](./Week1/week1-journal.md) | System Planning and Distribution Selection             | 🔄 In Progress |
+| [Week 1](./Week1/week1-journal.md) | System Planning and Distribution Selection             | done |
 | [Week 2](week2.md)         | Security Planning and Testing Methodology              | ⏳ Pending     |
 | [Week 3](week3.md)         | Application Selection for Performance Testing          | ⏳ Pending     |
 | [Week 4](week4.md)         | Initial System Configuration & Security Implementation | ⏳ Pending     |
