@@ -21,14 +21,37 @@ All monitoring via SSH: `ssh ahmed@192.168.56.101`
 
 ### Current System Status
 
+### SSH Configuration
 ![SSH Config](images/01-current-ssh-config.png)
+
+---
+
+### Firewall Status
 ![Firewall Status](images/02-firewall-status.png)
+
+---
+
+### Current Users
 ![Current Users](images/03-current-users.png)
+
+---
+
+### Running Services
 ![Running Services](images/04-running-services.png)
+
+---
+
+### AppArmor Status
 ![AppArmor Status](images/05-apparmor-status.png)
+
+---
+
+### System Updates
 ![APT Update](images/06-apt-update.png)
 
-### Checklist
+---
+
+### Security Checklist
 
 | Security Control | Status | Week |
 |-----------------|--------|------|
