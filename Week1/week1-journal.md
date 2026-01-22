@@ -51,7 +51,6 @@
 | Adapter 1 | NAT | enp0s3 | 10.0.2.15 |
 | Adapter 2 | Host-only | enp0s8 | 192.168.56.101 |
 
-### Host-only Adapter
 ![Host-only Adapter](images/13-adapter2-host-only.png)
 
 ### Netplan Configuration
@@ -73,11 +72,8 @@
 ### Profile Setup
 ![Password Config](images/05-password-configuration.png)
 
-### Featured Snaps
-![Featured Snaps](images/06-featured-snaps.png)
-
 ### SSH Server Installation
-![OpenSSH](images/06-openssh.png)
+![OpenSSH](<images/06-openssh .png>)
 
 ### Installation Complete
 ![Installation Complete](images/07-installation-complete.png)
@@ -87,10 +83,10 @@
 ## 6. CLI System Specifications
 
 ### First Login
-![First Login](images/09-first-login.png)
+![First Login](<images/09-first login.png>)
 
 ### Memory and Disk Space (`free -h` and `df -h`)
-![Memory and Space](images/10-memory-and-space.png)
+![Memory and Space](<images/10-memory and space.png>)
 
 ### IP Address (`ip addr`)
 ![IP Address](images/11-ipaddress.png)
@@ -120,3 +116,4 @@ SSH successfully established from Windows PowerShell to Ubuntu Server at 192.168
 ---
 
 *Week 1 Complete - Ahmed Hassan (A00022015)*
+
