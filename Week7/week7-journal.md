@@ -203,4 +203,5 @@ sudo systemctl enable sysstat
 
 ---
 
-## COURSEWORK COMPLETE! 🎉
+## COURSEWORK COMPLETE! 
+
