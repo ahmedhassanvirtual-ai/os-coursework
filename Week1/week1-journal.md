@@ -51,7 +51,7 @@
 | Adapter 1 | NAT | enp0s3 | 10.0.2.15 |
 | Adapter 2 | Host-only | enp0s8 | 192.168.56.101 |
 
-![Host-only Adapter](images/13-adapter2-host-only.png)
+![Host-only Adapter](images/13-adapter2-hostonly.png)
 
 ### Netplan Configuration
 ![Netplan Config](images/14-netplan-config.png)
@@ -70,7 +70,7 @@
 ![Storage Config](images/04-storage-configuration.png)
 
 ### Profile Setup
-![Password Config](images/05-password-configuration.png)
+![Password Config](images/05-password configuration.png)
 
 ### SSH Server Installation
 ![OpenSSH](<images/06-openssh .png>)
